@@ -1,0 +1,6 @@
+{
+  "name": "Bioimaginggroup.GitHub.io",
+  "tagline": "LMU Munich - Department of Statistics - Bioimaging Group",
+  "body": "## Software from the LMU Munich - Department of Statistics - Bioimaging Group\r\n### Microscopy\r\n* bioimagetools R package\r\n* nucim R package\r\n\r\n### Medical Imaging\r\n* cmr R package\r\n* dcemriS4",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
