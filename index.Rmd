@@ -1,0 +1,28 @@
+---
+title: "BioImagingGroup.GitHub.io"
+output: html_document
+---
+
+Software from the [LMU Munich](https://www.lmu.de) - [Department of Statistics](https://www.statistik.lmu.de) - [Bioimaging Group](http://www.bioimg.statistik.uni-muenchen.de/index.html)
+
+[View on github](https://github.com/bioimaginggroup)
+
+## Microscopy
+
+* [bioimagetools](https://bioimaginggroup.github.io/bioimagetools) 
+* [nucim](https://bioimaginggroup.github.io/nucim) 
+* [frapmm](https://github.com/feilke/frapmm)
+
+## Medical Imaging
+
+* [dcemriS4](https://github.com/bjw34032/dcemriS4) 
+* [oro.nifti](https://github.com/bjw34032/oro.nifti)
+* [dcemriboost](https://github.com/feilke/dcemriboost)
+* [dcemriSpatEnet](https://github.com/bioimaginggroup/dcemriSpatEnet)
+* [cmr](https://github.com/bioimaginggroup/cmr)
+* [lst](https://www.applied-statistics.de/lst.html)
+
+## Age Period Cohort Models
+
+* [BAMP - Bayesian Age Period Cohort Modelling and Prediction](http://bamp.volkerschmid.de/) 
+* [bamp R package](https://github.com/volkerschmid/bamp)
